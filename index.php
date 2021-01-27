@@ -17,7 +17,7 @@
 
 /**
  * 3. Générez un nombre aléatoire compris entre 0 et 50
- * ==> si le nombre est inférieur ou égal à 50, affichez : vous avez gagné ( dans un nouveau <p> )
+ * ==> si le nombre est inférieur ou égal à 25, affichez : vous avez gagné ( dans un nouveau <p> )
  * ==> si ce n'est pas le cas, affichez : vous avez perdu ( dans un nouveau <p> )
  */
 
